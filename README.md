@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ivandefinity
+- 👀 I’m interested in Microsoft Dynamics 365 CE Technology
+- 🌱 I’m currently learning Power Apps
+- 💞️ I’m looking to collaborate on Microsoft Dynamics 365 CE Product
